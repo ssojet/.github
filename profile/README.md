@@ -1,19 +1,8 @@
 ## Hi there 👋
 
-<!--
+![SSOJet Logo](https://logo.clearbit.com/ssojet.com)
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
-
-## SSOJet: Streamlining Single Sign-On (SSO) for Modern Applications
-
-[[Image of SSOJet Logo](https://logo.clearbit.com/ssojet.com)]
+### SSOJet: Streamlining Single Sign-On (SSO) for Modern Applications
 
 Welcome to the official GitHub profile of SSOJet! We're on a mission to simplify user authentication and access management for B2B SaaS companies and tech startups.  Our developer-first, API-first SSO platform empowers you to build secure and seamless login experiences for your customers and employees.
 
